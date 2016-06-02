@@ -11,9 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 @WebServlet(name = "HelloSwarmServlet", urlPatterns = "/HelloSwarm")
 public class HelloSwarm extends HttpServlet{
 
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = -5213753455272301025L;
 
 	@Override
